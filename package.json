@@ -1,0 +1,24 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/olgakonst712/api_ex.git",
+  "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-stage-3": "^6.24.1",
+    "backpack-core": "^0.7.0",
+    "compass": "^0.1.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "mongodb": "^3.0.5",
+    "save": "^2.3.2"
+  }
+}
